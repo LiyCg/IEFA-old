@@ -1,4 +1,9 @@
-# Audio-Driven Speech Animation with Text-Guided Expression
+# Interactive Editing of Facial Animation with Natural Language
+
+### Inyup Lee
+
+
+<!-- # Audio-Driven Speech Animation with Text-Guided Expression
 
 ### Sunjin Jung
 * Avatar Intern (2023.10.30 ~ 2024.01.26)
@@ -67,4 +72,4 @@ python audio2speech/a2s_train.py --model_name '1' --device 1 --autoencoder_path 
 python disentanglement/train.py --model_num '23' --device 1 --test_audio 'M003_front_angry_3_003.wav' --text 'He looks like he is about to cry.'
 ```
 Place the input audio file in the `/data/test/audio` directory.
-Alternatively, you can specify the test audio file path by using the `--test_wav_dir` arguments.
+Alternatively, you can specify the test audio file path by using the `--test_wav_dir` arguments. -->
